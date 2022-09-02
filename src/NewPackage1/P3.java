@@ -8,7 +8,6 @@ public class P3 {
 		System.out.println("new");
 		System.out.println("new");
 
-
 	}
 
 }
