@@ -4,8 +4,9 @@ public class P3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		system.out.println("new");
-		system.out.println("new");
+		System.out.println("new");
+		System.out.println("new");
+		System.out.println("new");
 
 
 	}
