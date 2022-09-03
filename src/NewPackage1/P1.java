@@ -7,6 +7,8 @@ public class P1 {
 		
 		
 		System.out.println("Hi");
+		System.out.println("Hi");
+
 		
 	
 	}
